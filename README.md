@@ -1,10 +1,9 @@
 # 🏁 Tugas Akhir (TA) - Final Project
 
-**Nama Mahasiswa**: [Nama Lengkap]  
-**NRP**: [Nomor Registrasi Pokok]  
-**Judul TA**: [Judul Tugas Akhir]  
-**Dosen Pembimbing**: [Nama Dosen]  
-**Dosen Ko-pembimbing**: [Nama Dosen]
+**Nama Mahasiswa**: [Mardhatillah Shevy Ananti]  
+**NRP**: [5025211070]  
+**Judul TA**: [RANCANG BANGUN SISTEM PEMESANAN MEAL KIT ONLINE DENGAN MANAJEMEN PEMESANAN WAKTU NYATA, PERSONALISASI DIET DAN PASAR KOLABORATIF DALAM APLIKASI MEAL KIT DI KAMPUS]  
+**Dosen Pembimbing**: [Hadziq Fabroyir]  
 
 ---
 
@@ -71,5 +70,5 @@ Pastikan proyek memenuhi kriteria berikut sebelum submit:
 ## ⁉️ Pertanyaan?
 
 Hubungi:
-- Penulis: [email@mahasiswa]
-- Pembimbing Utama: [email@pembimbing]
+- Penulis: [5025211070@student.its.ac.id]
+- Pembimbing Utama: [hadziq@its.ac.id]
