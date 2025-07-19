@@ -1,17 +1,16 @@
 # 🏁 Tugas Akhir (TA) - Final Project
 
-**Nama Mahasiswa**: [Mardhatillah Shevy Ananti]  
-**NRP**: [5025211070]  
-**Judul TA**: [RANCANG BANGUN SISTEM PEMESANAN MEAL KIT ONLINE DENGAN MANAJEMEN PEMESANAN WAKTU NYATA, PERSONALISASI DIET DAN PASAR KOLABORATIF DALAM APLIKASI MEAL KIT DI KAMPUS]  
-**Dosen Pembimbing**: [Hadziq Fabroyir]  
+**Nama Mahasiswa**: Mardhatillah Shevy Ananti
+**NRP**: 5025211070
+**Judul TA**: RANCANG BANGUN SISTEM PEMESANAN MEAL KIT ONLINE DENGAN MANAJEMEN PEMESANAN WAKTU NYATA, PERSONALISASI DIET DAN PASAR KOLABORATIF DALAM APLIKASI MEAL KIT DI KAMPUS
+**Dosen Pembimbing**: Hadziq Fabroyir
 
 ---
 
 ## 📺 Demo Aplikasi  
 Embed video demo di bawah ini (ganti `VIDEO_ID` dengan ID video YouTube Anda):  
 
-[![Demo Aplikasi](https://i.ytimg.com/vi/zIfRMTxRaIs/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)  
-*Klik gambar di atas untuk menonton demo*
+(https://www.youtube.com/watch?v=VIDEO_ID)  
 
 ---
 
